@@ -1,6 +1,6 @@
 # XMiner
 
-GPU Miner for `ETH`
+GPU Miner Core for `ETH`
 
 ## Disclaimer
 
